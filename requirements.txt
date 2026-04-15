@@ -1,0 +1,10 @@
+DBCV @ git+https://github.com/christopherjenness/DBCV.git@db7345c45ab7d33ea500778e5c9048fd9f7d3156
+matplotlib==3.10.8
+matplotlib-inline==0.2.1
+numpy==2.4.4
+pandas==3.0.2
+scikit-learn==1.8.0
+scipy==1.17.1
+seaborn==0.13.2
+ipython
+jinja2
