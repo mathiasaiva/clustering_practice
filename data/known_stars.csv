@@ -1,0 +1,8 @@
+Temperature,L,R,A_M,Color,Spectral_Class
+3000,0.0007,0.1,17.5,red,K
+3300,0.0055,0.35,12.5,red,M
+14000,0.0025,0.01,12.6,white,A
+16000,32000,4.4,-0.4,yellow white,G
+15000,300000,50,-6.4,yellow white,G
+11000,300000,"
+1400",-9.6,orange,G
